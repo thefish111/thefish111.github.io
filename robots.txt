@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://thefish111.github.io/sitemap.xml
