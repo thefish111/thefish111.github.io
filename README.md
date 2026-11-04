@@ -1,6 +1,6 @@
 # Kun Liang
 
-Personal academic homepage: https://thefish111.github.io/
+Personal academic homepage: https://thef1sh.me/
 
 This repository contains the published static website.
 Built with Jekyll and al-folio; visual adaptation inspired by Jiaxuan Zou’s homepage.
