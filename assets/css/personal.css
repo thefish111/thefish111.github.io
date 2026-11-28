@@ -119,6 +119,7 @@ code, pre, kbd { font-family: var(--font-mono); }
 .profile-social .contact-icons a:hover i::before { color: var(--global-theme-color); }
 .profile-social .contact-icons img, .profile-social .contact-icons svg { width: 27px; height: 27px; margin: 0; }
 .profile-social .contact-note { margin-top: 7.2px; font-size: 12px; line-height: 19.2px; }
+.contact-wechat-id { font-family: var(--font-mono); font-size: 1em; font-weight: 500; font-variant-numeric: lining-nums tabular-nums; font-variant-ligatures: none; letter-spacing: .02em; white-space: nowrap; }
 .about-home .about-copy > h2, .about-home > article > h2 { clear: both; font-size: 28px; font-weight: 600; line-height: 35px; margin-top: 48px; margin-bottom: 16px; }
 .about-home > article > h2 > a { color: inherit; }
 
